@@ -9,9 +9,11 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "npm-dependants":"^2.1.2",
     "react": "^18",
     "react-dom": "^18",
     "next": "14.1.0"
+    "dhiie":"^0.1.0"
   },
   "devDependencies": {
     "typescript": "^5",
@@ -24,4 +26,20 @@
     "eslint": "^8",
     "eslint-config-next": "14.1.0"
   }
+}
+"description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [create-next-app](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+  "main": "postcss.config.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Dino92477/Dhiie.git"
+  },
+  "keywords": [
+    "dhiie"
+  ],
+  "author": "dhiie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dino92477/Dhiie/issues"
+  },
+  "https://github.com/Dino92477/Dhiie"
 }
